@@ -1,5 +1,5 @@
 # GPool
-A goroutine pool for golang
+A Goroutine pool for golang
 ```$xslt
 package main
 
