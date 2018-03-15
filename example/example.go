@@ -1,6 +1,3 @@
-# GPool
-A goroutine pool for golang
-```$xslt
 package main
 
 import (
@@ -42,5 +39,3 @@ func main() {
 		fmt.Println("The download pool is full, speed limit.")
 	}
 }
-
-```
