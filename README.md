@@ -1,5 +1,8 @@
 # GPool
 A Goroutine pool for golang
+
+High performance asynchronous pool with timeout mechanism with alarm mechanism.
+
 ```$xslt
 package main
 
